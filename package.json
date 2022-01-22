@@ -1,0 +1,21 @@
+{
+  "name": "ValidZigzagControlflowgraph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.13.1"
+  },
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^13.5.1",
+    "express": "^4.17.2"
+  }
+}
