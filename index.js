@@ -131,6 +131,7 @@ client.on('guildMemberAdd', async (member) => {
         }
 })
 
-client.login(process.env.Token);
+client.login(process.env.Token); //Yêu cầu tạo secret tên "Token" 
+//Require the Token secret
 
 // Bot code bởi Folody Team - 2022
